@@ -7,10 +7,10 @@
 <body>
   <div class="social-icons">
     <a href="https://www.facebook.com/themicrojournalist" target="_blank">
-      <img src="facebook-icon.png" alt="Facebook">
+      <img src="file:///C:/Users/Administrator/Desktop/images/facebook-icon.png" alt="Facebook">
     </a>
     <a href="https://www.instagram.com/themicrojournalist/" target="_blank">
-      <img src="instagram-icon.png" alt="Instagram">
+      <img src="file:///C:/Users/Administrator/Desktop/images/instagram-icon.png" alt="Instagram">
     </a>
   </div>
 </body>

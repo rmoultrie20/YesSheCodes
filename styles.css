@@ -46,11 +46,12 @@ footer p {
 
 .social-icons {
   display: flex;
+  justify-content: center;
 }
 
 .social-icons a {
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 8px;
 }
 
 .social-icons img {

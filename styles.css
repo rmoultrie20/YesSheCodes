@@ -15,7 +15,7 @@ h1 {
   font-size: 30px;
   margin-bottom: 10px;
   color: white;
-  animation: bounce 20s linear infinite;
+  animation: bounce 4s linear infinite;
 }
 
 @keyframes bounce {

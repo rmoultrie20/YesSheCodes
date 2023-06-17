@@ -15,7 +15,7 @@ h1 {
   font-size: 30px;
   margin-bottom: 10px;
   color: white;
-  animation: marquee 20s linear infinite;
+  animation: marquee 30s linear infinite;
 }
 
 @keyframes marquee {

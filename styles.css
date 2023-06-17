@@ -3,9 +3,7 @@ body {
   background-image: url('photo-1623039405147-547794f92e9e.jpeg');
   background-size: cover;
   color: white;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+ 
 }
 
 header {
@@ -41,7 +39,7 @@ a {
 footer {
   background-color: black;
   padding: 10px;
-  margin-top: auto;
+  
 }
 
 footer p {

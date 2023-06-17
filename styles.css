@@ -38,6 +38,7 @@ a {
 footer {
   background-color: black;
   padding: 10px;
+  margin-top: auto;
 }
 
 footer p {

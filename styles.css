@@ -7,14 +7,24 @@ body {
 header {
   background-color: black;
   padding: 20px;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 h1 {
   font-size: 30px;
   margin-bottom: 10px;
   color: white;
+  animation: marquee 10s linear infinite;
 }
-
+@keyframes marquee {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
 section {
   padding: 20px;
 }

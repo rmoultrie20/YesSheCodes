@@ -12,7 +12,7 @@ header {
 h1 {
   font-size: 28px;
   margin-bottom: 10px;
-  color: red;
+  color: white;
 }
 
 section {
@@ -22,16 +22,16 @@ section {
 h2 {
   font-size: 24px;
   margin-bottom: 10px;
-  color: red;
+  color: white;
 }
 
 p {
   margin-bottom: 10px;
-  color: red;
+  color: white;
 }
 
 a {
-  color: red;
+  color: white;
 }
 
 footer {

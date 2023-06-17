@@ -20,13 +20,13 @@ h1 {
 
 @keyframes bounce {
   0% {
-    transform: translateX(100%);
+    transform: translateX(-100%);
   }
   50% {
-    transform: translateX(0);
+    transform: translateX(100%);
   }
   100% {
-    transform: translateX(100%);
+    transform: translateX(-100%);
   }
 }
 section {

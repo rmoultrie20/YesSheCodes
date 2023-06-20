@@ -5,8 +5,8 @@ body {
 }
 
 header {
-  background-color: black;
-  padding: 20px;
+  background-color: yellow;
+  padding: 10px;
   overflow: hidden;
   white-space: nowrap;
 }

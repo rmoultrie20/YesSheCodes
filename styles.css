@@ -10,7 +10,7 @@ header {
 }
 
 header h1 {
-  color: black;
+  color:  black !important;
 }
 
 header nav ul {

@@ -2,12 +2,12 @@ body {
   background-image: url('photo-1623039405147-547794f92e9e.jpeg');
   background-size: cover;
   color: red;
- overflow: auto;
+ overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
   width: 12px;
-  height: 12px;
 }
 
 ::-webkit-scrollbar-track {

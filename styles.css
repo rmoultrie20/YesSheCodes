@@ -111,3 +111,27 @@ footer p {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+header {
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  color: white;
+}
+
+header nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
